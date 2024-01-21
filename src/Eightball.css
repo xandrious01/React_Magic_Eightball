@@ -1,0 +1,23 @@
+.eightball-container {
+    width: 50%;
+}
+
+.eightball-sphere {
+    display: block;
+    border-radius: 50%;
+    height: 30rem;
+    width: 30rem;
+    margin: 0;
+    text-align: center;
+    align-items: center;
+    border: 10px solid black;
+}
+
+.eightball-text {
+    font-size: 3rem;
+    display: block;
+    padding-top: 35%;
+    padding-bottom: 30%;
+    box-sizing: content-box;
+
+}
