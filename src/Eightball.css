@@ -40,6 +40,20 @@
     box-sizing: content-box;
     position: relative;
     z-index: 1;
-    
+}
 
+.eightball-counter {
+    font-size: 2.5rem;
+}
+
+.green {
+    color: green;
+}
+
+.goldenrod {
+    color: goldenrod;
+}
+
+.red {
+    color: red;
 }
